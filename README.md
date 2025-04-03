@@ -1,4 +1,4 @@
-# ArufCyberSec
+# ArifCyberSec
 # Hi, ich bin Ahmad Arif 👋
 
 ## 🎯 Über mich
